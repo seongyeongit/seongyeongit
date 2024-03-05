@@ -12,3 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=정성연입니다.&section=header&desc=열심히%20뭐든%20잘합니다.&descAlignY=70&descAlign=50)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+                                          [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)    
+                                          
+![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-bage&logo=spring&logoColor=white)
+
+                                          
