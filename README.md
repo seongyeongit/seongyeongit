@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=정성연입니다.&section=header&desc=열심히%20뭐든%20잘합니다.&descAlignY=70&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=정성연입니다.&section=header&desc=열심히%20뭐든%20해냅니다.&descAlignY=70&descAlign=50)
 
 
 [![Solved.ac
